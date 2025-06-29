@@ -1,0 +1,3 @@
+Valgrind Command:
+
+valgrind --leak-check=full --track-origins=yes ./main
