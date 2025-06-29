@@ -1,1 +1,1 @@
-Hello! Welcome to the repository for my C-Programming project final! Please click the file above to view the project contents as well as the additional instructions on how to run the game yourself in your own linux terminal!
+Hello! Welcome to the repository for my C-Programming project final! Please click the folder in main to view the project contents as well as the additional instructions on how to run the game yourself in your own linux terminal!
